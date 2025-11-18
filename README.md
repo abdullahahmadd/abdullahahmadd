@@ -1,5 +1,5 @@
 # 📊 Hi there, I'm Abdullah Ahmad!
-**Data Analytics | BI Analyst | BI Developer | Database Administrator | Quality Assurance | IT Support**
+**Data Analyst | BI Analyst | BI Developer | Database Administrator | Quality Assurance | IT Support**
 
 ---
 
