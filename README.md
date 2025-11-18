@@ -1,57 +1,47 @@
-# Hi there, I’m **Abdullah Ahmad**! 👋
-
-**Data Analyst | Business Intelligence Specialist | Data Engineering Learner**
+# 📊 Hi there, I'm Abdullah Ahmad!
+**Data Analytics | BI Analyst | BI Developer | Database Administrator | Quality Assurance | IT Support**
 
 ---
 
 ## 🌟 About Me
 
-I’m a Software Engineering graduate, certified by Google, Microsoft, and IBM in Advanced Data Analytics, Power BI, and Data Engineering. Passionate about unlocking business value through analytics, automation, and continuous improvement. I specialize in transforming raw data into actionable insights using modern BI tools and programming languages.
+Curious by nature and passionate about solving problems, I specialize in turning data into valuable business insights. Whether it’s building interactive dashboards, supporting teams with IT solutions, or ensuring quality in processes, I enjoy helping organizations make smart, data-driven decisions.
 
 ---
 
-## 💡 Skills & Tools
+## 💡 Skills
 
-- **Data & BI:** Power BI, Excel, SQL, EDA, Dashboarding, Business Intelligence
-- **Programming:** Python, R
-- **Data Engineering:** SQL, Data Warehousing (IBM, Google Cloud)
-- **Project Management:** Agile, Lean Six Sigma (Black Belt), Google Project Management
-- **Other Tech:** VBA, Automation (Python, Excel), IT Support, Database Administration
-- **Soft Skills:** Communication, Collaboration, Problem Solving, Professional Skills for the Workplace
-
----
-
-## 🚀 What I’m Working On
-
-- Building interactive dashboards and analytics reports with Power BI and Python  
-- Developing ETL pipelines and optimizing data workflows  
-- Exploring AI-driven analytics and automation with Microsoft Generative AI  
-- Continuing professional growth with new certifications and real-world projects
+- Translating complex data into clear, actionable insights
+- Designing and building dashboards and reports
+- Identifying trends and patterns for better business outcomes
+- Managing and optimizing databases for smooth data flow
+- Coordinating projects, streamlining tasks, and driving improvements
+- Ensuring software and process quality through testing and review
+- Supporting teams and users with technical troubleshooting
+- Communicating solutions effectively and collaborating in diverse groups
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tools
 
-- _[Pin and describe your top repositories here]_  
-  - `project-one`: A business dashboard using Power BI and Python
-  - `project-two`: ETL pipeline for supply chain analytics (SQL/Cloud)
-  - _Add more with 1-2 line descriptions_
-
----
-
-## 🌐 Connect With Me
-
-- **[LinkedIn](https://www.linkedin.com/in/aabdullah-ahmad/)**
-- **Email:** your.email@example.com
-- **Portfolio:** [your-portfolio.com]
+- Power BI
+- Excel
+- SQL
+- Python
+- R
+- Database Management Systems
+- Linux
 
 ---
 
-## 🏆 Certifications
+## 🚀 What I'm Working On
 
-*Google Advanced Data Analytics | IBM Data Engineering | Microsoft Power BI | Lean Six Sigma Black Belt | and more (see LinkedIn)*
+- Creating data visualizations and reporting solutions
+- Enhancing business intelligence with practical dashboards
+- Improving quality and efficiency in everyday workflows
+- Supporting users with problem-solving and technical advice
 
 ---
 
-**Let’s connect, collaborate, and build data-driven solutions together!**
+**Open to collaboration, new ideas, and opportunities to use data in meaningful ways!**
 
