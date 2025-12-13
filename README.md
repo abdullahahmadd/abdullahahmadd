@@ -1,5 +1,5 @@
 # 📊 Hi there, I'm Abdullah Ahmad!
-**Data Analyst | BI Analyst | BI Developer | Database Administrator | Quality Assurance | IT Support**
+**Data Analyst | Database Administrator**
 
 ---
 
@@ -24,13 +24,11 @@ Curious by nature and passionate about solving problems, I specialize in turning
 
 ## 🛠️ Tools
 
-- Power BI
-- Excel
+- MS Excel
 - SQL
+- DBMS
 - Python
 - R
-- Database Management Systems
-- Linux
 
 ---
 
