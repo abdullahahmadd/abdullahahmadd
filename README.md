@@ -33,7 +33,7 @@ I enjoy solving business problems with data and building practical solutions tha
 
 ## 🛠️ Technical Skills
 
-### Analytics & Business Intelligence
+### Data Analytics & Business Intelligence
 
 * Power BI
 * DAX
@@ -58,15 +58,6 @@ I enjoy solving business problems with data and building practical solutions tha
 * R
 * Excel VBA
 
-### Data Engineering
-
-* ETL Pipelines
-* Data Transformation
-* Data Integration
-* Shell Scripting
-* Airflow Fundamentals
-* Kafka Fundamentals
-
 ### ERP & Operations
 
 * Odoo ERP
@@ -88,116 +79,21 @@ I enjoy solving business problems with data and building practical solutions tha
 
 ---
 
-## 📂 Featured Projects
-
-### 📈 Business Intelligence
-
-**Tailwind Traders Sales Analytics**
-
-* Interactive sales and profitability dashboard
-* DAX KPIs and stakeholder-ready reporting
-
-**AdventureWorks Executive Sales Dashboard**
-
-* Executive-level KPI reporting dashboard
-* Revenue and regional performance analysis
-
-**AdventureWorks ETL Dashboard**
-
-* Power Query ETL workflow
-* Business performance reporting
-
----
-
-### 📊 Data Analytics
-
-**Cyclistic Bike Share Analysis**
-
-* Customer behavior analysis using Excel, SQL, and R
-* Marketing-focused business recommendations
-
-**Fitbit Wellness Analysis**
-
-* Activity, sleep, and wellness trend analysis
-* Data-driven engagement insights
-
-**Chicago Community Data Analysis**
-
-* Socio-economic and crime trend analysis
-* Python and SQL analytics workflows
-
----
-
-### 🏢 ERP & Business Operations
-
-**ERP System KSA**
-
-* VBA-powered ERP solution
-* Sales, customer, invoicing, and VAT automation
-
-**KSA Financial Expense Analysis**
-
-* Interactive financial dashboard
-* Cost and approval trend analysis
-
----
-
-### 🗄️ Database & Data Engineering
-
-**Retail Sales Data Warehouse**
-
-* Star schema implementation
-* Advanced SQL analytics and reporting
-
-**World's Largest Banks ETL Pipeline**
-
-* Data extraction and transformation workflow
-* Structured datasets for analysis
-
-**Countries GDP Web Scraping**
-
-* Automated data collection and processing pipeline
-
----
-
-### ✅ Quality Improvement Projects
-
-**Construction Site Inspection Efficiency**
-
-* Six Sigma DMAIC project
-* Root cause analysis and process optimization
-
-**Warehouse Operations Quality Improvement**
-
-* FMEA, Pareto Analysis, and KPI monitoring
-* Inventory accuracy and operational improvement
-
----
-
 ## 🎓 Certifications
 
-* Google Data Analytics Professional Certificate
-* Google Advanced Data Analytics Professional Certificate
-* Google Business Intelligence Professional Certificate
-* IBM Data Engineering Professional Certificate
-* Microsoft Power BI Data Analyst Professional Certificate
+* Google Data Analytics Specialization
+* Google Advanced Data Analytics Specialization
+* Google Business Intelligence Specialization
+* IBM Data Engineering Specialization
+* Microsoft Power BI Data Analyst Specialization
 * Excel VBA for Creative Problem Solving
-* Google Project Management Professional Certificate
-* Google IT Automation with Python
+* Google Project Management Specialization
+* Google IT Automation with Python Specialization
 * Lean Six Sigma (White, Yellow, Green & Black Belt)
 * AWS Cloud Practitioner
 * Microsoft Azure Fundamentals
-
----
-
-## 📈 Current Focus
-
-* Advanced Power BI Development
-* Business Intelligence Solutions
-* SQL Analytics & Reporting
-* Data Warehousing & ETL Workflows
-* ERP Reporting & Process Analysis
-* Real-World Analytics Projects
+* Cisco Networking Essentials
+* Google IT Support Specialization
 
 ---
 
@@ -205,6 +101,6 @@ I enjoy solving business problems with data and building practical solutions tha
 
 📍 Jeddah, Saudi Arabia
 
-💼 Open to Data Analyst, BI Analyst, Reporting Analyst, MIS Analyst, ERP Analyst, Data Controller, and QA/QC opportunities.
+💼 Open to Data Analyst, BI Analyst, ERP, Data Controller, Document Controller and QA/QC opportunities.
 
 Thanks for visiting my profile!
