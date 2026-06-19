@@ -2,10 +2,10 @@
 
 ### Data Analyst | Business Intelligence Analyst | Power BI • SQL • Python • Excel
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
