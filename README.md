@@ -12,7 +12,7 @@
 
 ## 📊 About Me
 
-Data Analyst with 3+ years of experience across data analytics, business intelligence, and database administration. I work across the full data lifecycle — collection, cleaning, validation, analysis, visualization, and reporting — turning raw operational data into dashboards and insights that support real business decisions.
+Data Analyst with 3+ years of experience across data analytics, business intelligence, and database administration. I work across the full data lifecycle - collection, cleaning, validation, analysis, visualization, and reporting - turning raw operational data into dashboards and insights that support real business decisions.
 
 My recent work includes building a full Python analytics pipeline on 1,200+ retail transactions (uncovering SAR 4.37M in sales), designing star-schema Power BI dashboards with custom DAX measures, and architecting a 470,000+ record PostgreSQL database for a simulated construction company.
 
@@ -23,7 +23,7 @@ I enjoy solving business problems with data and building practical, well-documen
 ## 🚀 What I Build
 
 * Interactive Power BI dashboards and KPI reporting solutions
-* Python/R analytics pipelines — data cleaning, EDA, feature engineering
+* Python/R analytics pipelines - data cleaning, EDA, feature engineering
 * SQL-based analytics and normalized database systems
 * Excel reporting and automation solutions
 * Data warehouse and ETL workflows
